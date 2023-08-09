@@ -1,0 +1,6 @@
+C:\Users\a3299\OpeniGameAPI\OpeniGameAPI\bin\x64\Debug\OpeniGameAPI.dll
+C:\Users\a3299\OpeniGameAPI\OpeniGameAPI\bin\x64\Debug\OpeniGameAPI.pdb
+C:\Users\a3299\OpeniGameAPI\OpeniGameAPI\obj\x64\Debug\OpeniGameAPI.csproj.AssemblyReference.cache
+C:\Users\a3299\OpeniGameAPI\OpeniGameAPI\obj\x64\Debug\OpeniGameAPI.csproj.CoreCompileInputs.cache
+C:\Users\a3299\OpeniGameAPI\OpeniGameAPI\obj\x64\Debug\OpeniGameAPI.dll
+C:\Users\a3299\OpeniGameAPI\OpeniGameAPI\obj\x64\Debug\OpeniGameAPI.pdb
