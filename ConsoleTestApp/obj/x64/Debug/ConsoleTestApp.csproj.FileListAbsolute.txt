@@ -9,3 +9,14 @@ C:\Users\a3299\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.csproj.C
 C:\Users\a3299\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.csproj.CopyComplete
 C:\Users\a3299\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.exe
 C:\Users\a3299\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.pdb
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\bin\x64\Debug\ConsoleTestApp.exe.config
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\bin\x64\Debug\ConsoleTestApp.exe
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\bin\x64\Debug\ConsoleTestApp.pdb
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\bin\x64\Debug\OpeniGameAPI.dll
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\bin\x64\Debug\OpeniGameAPI.pdb
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.csproj.AssemblyReference.cache
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.csproj.CoreCompileInputs.cache
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.csproj.CopyComplete
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.exe
+C:\Users\a3299\gitexchange\OpeniGameAPI\ConsoleTestApp\obj\x64\Debug\ConsoleTestApp.pdb

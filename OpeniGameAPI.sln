@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpeniGameAPI", "OpeniGameAP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestApp", "ConsoleTestApp\ConsoleTestApp.csproj", "{20DB36B8-0033-4928-B993-83F59C0C7C2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{75A40BA6-F9B7-47DB-AC76-976BCC2CA13F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,14 @@ Global
 		{20DB36B8-0033-4928-B993-83F59C0C7C2F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{20DB36B8-0033-4928-B993-83F59C0C7C2F}.Release|x64.ActiveCfg = Release|x64
 		{20DB36B8-0033-4928-B993-83F59C0C7C2F}.Release|x64.Build.0 = Release|x64
+		{75A40BA6-F9B7-47DB-AC76-976BCC2CA13F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A40BA6-F9B7-47DB-AC76-976BCC2CA13F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A40BA6-F9B7-47DB-AC76-976BCC2CA13F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{75A40BA6-F9B7-47DB-AC76-976BCC2CA13F}.Debug|x64.Build.0 = Debug|Any CPU
+		{75A40BA6-F9B7-47DB-AC76-976BCC2CA13F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A40BA6-F9B7-47DB-AC76-976BCC2CA13F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A40BA6-F9B7-47DB-AC76-976BCC2CA13F}.Release|x64.ActiveCfg = Release|Any CPU
+		{75A40BA6-F9B7-47DB-AC76-976BCC2CA13F}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

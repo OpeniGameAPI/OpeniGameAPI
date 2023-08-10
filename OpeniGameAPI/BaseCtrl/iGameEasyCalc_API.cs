@@ -14,6 +14,12 @@ namespace OpeniGameAPI.Service.CSharp
         public delegate void iGameEasyCalc_CallBack(iGameEasyCalc_RGBList Receive);
 
         public const string DllPath = ".\\iGameAPI\\iGameEasyCalc.dll";
+        [DllImport(".\\iGameAPI\\iGameEasyCalc.dll", CallingConvention = CallingConvention.Cdecl)]
+        public static extern bool iGameEasyCalc_Get_RGBList();
+
+
+
+
 
         [DllImport(".\\iGameAPI\\iGameEasyCalc.dll", CallingConvention = CallingConvention.Cdecl)]
         public static extern bool iGameEasyCalc_UnInit();
